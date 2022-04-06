@@ -1,1 +1,2 @@
-about-MKTools
+- [Privacy Policy](https://sheat-git.github.io/about-MKTools/privacy-policy/)
+- [Support](https://sheat-git.github.io/about-MKTools/support/)
